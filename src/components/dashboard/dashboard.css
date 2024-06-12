@@ -1,0 +1,226 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Arial', sans-serif; 
+    background-color: #f4f4f4; 
+}
+
+.rectangulo-negro {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.texto-derecha {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+}
+
+.subrayado {
+    text-decoration: underline;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+}
+
+.navegador {
+    font-family: 'Arial', sans-serif;
+    background: #ffffff;
+    padding: 10px 0;
+}
+
+.menu-horizontal li {
+    display: inline-block;
+    margin-right: 20px;
+    position: relative;
+}
+
+.menu-horizontal a {
+    color: black;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: block;
+}
+
+.menu-horizontal ul {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+    padding: 10px;
+    border-radius: 5px;
+    z-index: 1000;
+}
+
+.menu-horizontal li:hover > ul {
+    display: block;
+}
+
+.categoria-items, .categoria-categoria, .categoria-plataforma {
+    padding: 5px 0;
+}
+
+.categoria-items a, .categoria-categoria a, .categoria-plataforma a {
+    padding: 5px 10px;
+    display: block;
+    color: black;
+    text-decoration: none;
+}
+
+.categoria-items a:hover, .categoria-categoria a:hover, .categoria-plataforma a:hover {
+    background-color: #f8f8f8;
+}
+
+.contenido-principal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-top: 20px;
+}
+
+.bg-image {
+    max-width: 50%; 
+    height: auto;
+    display: block;
+}
+
+.contenido-texto {
+    padding: 20px;
+    color: white;
+    text-align: left;
+    background: white;
+    max-width: 50%;
+    color: black;
+    font-weight: bold;
+}
+
+.titulo, .descripcion {
+    margin-bottom: 20px;
+}
+
+.boton-principal {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+.boton-principal:hover {
+    background-color: #0056b3;
+}
+
+.nuevos-lanzamientos, .product-carrusel {
+    margin: 20px;
+    text-align: center;
+}
+
+.carrusel{
+    margin-top: 50px;
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    padding: 20px;
+    flex-direction: row;
+    width: 350px;
+    height: 300px;
+}
+.carruselContainer{
+    display: flex;
+    flex-direction: row;
+}
+.imageCarrusel{
+    width: 200px;
+    height: 200px;
+}
+
+
+.tarjeta {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.boton-nuevos-productos, .boton-mochila, .boton-microfono {
+    background-color: #007BFF;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.boton-nuevos-productos:hover, .boton-mochila:hover, .boton-microfono:hover {
+    background-color: #0056b3;
+}
+
+.categorias-principales {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.tarjeta-principal {
+    width: 200px;
+    margin: 10px;
+    overflow: hidden;
+    border: 1px solid #ccc;
+}
+
+.tarjeta-principal img {
+    width: 100%;
+    height: auto;
+}
+.navegador {
+    background-color: #282c34; 
+    padding: 10px 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .menu-horizontal {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+  }
+  
+  .menu-horizontal li {
+    margin: 0 15px;
+  }
+  
+  .menu-horizontal a {
+    text-decoration: none;
+    color: white; 
+    font-weight: bold;
+    padding: 10px;
+    transition: color 0.3s; 
+  }
+  
+  .menu-horizontal a:hover, .menu-horizontal a:focus {
+    color: #4CAF50; 
+  }
+.mochilaHiperx{
+    display: flex;
+    flex-direction: row;
+}
