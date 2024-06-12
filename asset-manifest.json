@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/texnoexpert/static/css/main.075093dd.css",
-    "main.js": "/texnoexpert/static/js/main.9328d6f4.js",
+    "main.js": "/texnoexpert/static/js/main.308b0082.js",
     "static/js/453.46adeb41.chunk.js": "/texnoexpert/static/js/453.46adeb41.chunk.js",
+    "static/media/portada 1.png": "/texnoexpert/static/media/portada 1.6aa1ea87808f3cca3bce.png",
+    "static/media/mochilahiperx 1.png": "/texnoexpert/static/media/mochilahiperx 1.7d6a5c38b9ad44a8b6e7.png",
+    "static/media/i9intel.png": "/texnoexpert/static/media/i9intel.7fc39990584c34a1e390.png",
     "index.html": "/texnoexpert/index.html",
     "main.075093dd.css.map": "/texnoexpert/static/css/main.075093dd.css.map",
-    "main.9328d6f4.js.map": "/texnoexpert/static/js/main.9328d6f4.js.map",
+    "main.308b0082.js.map": "/texnoexpert/static/js/main.308b0082.js.map",
     "453.46adeb41.chunk.js.map": "/texnoexpert/static/js/453.46adeb41.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.075093dd.css",
-    "static/js/main.9328d6f4.js"
+    "static/js/main.308b0082.js"
   ]
 }
