@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "/texnoexpert/static/css/main.075093dd.css",
-    "main.js": "/texnoexpert/static/js/main.308b0082.js",
+    "main.css": "/texnoexpert/static/css/main.df158081.css",
+    "main.js": "/texnoexpert/static/js/main.3285c4eb.js",
     "static/js/453.46adeb41.chunk.js": "/texnoexpert/static/js/453.46adeb41.chunk.js",
     "static/media/portada 1.png": "/texnoexpert/static/media/portada 1.6aa1ea87808f3cca3bce.png",
     "static/media/mochilahiperx 1.png": "/texnoexpert/static/media/mochilahiperx 1.7d6a5c38b9ad44a8b6e7.png",
+    "static/media/nvidia4090 1.png": "/texnoexpert/static/media/nvidia4090 1.0c239777a031a0d66711.png",
     "static/media/i9intel.png": "/texnoexpert/static/media/i9intel.7fc39990584c34a1e390.png",
+    "static/media/m 1.png": "/texnoexpert/static/media/m 1.adba4923a0be13c0633f.png",
+    "static/media/instagram.svg": "/texnoexpert/static/media/instagram.c83e628eea4e83e0d2b6c8e54910510c.svg",
+    "static/media/tiktok.svg": "/texnoexpert/static/media/tiktok.54373634871d9e8f8113b8db5f94c7ed.svg",
+    "static/media/twitter.svg": "/texnoexpert/static/media/twitter.fe06d572bd13680e66f4d31fc7cf1832.svg",
+    "static/media/facebook.svg": "/texnoexpert/static/media/facebook.1d60f030f88d365627c35afd0f0f9d38.svg",
     "index.html": "/texnoexpert/index.html",
-    "main.075093dd.css.map": "/texnoexpert/static/css/main.075093dd.css.map",
-    "main.308b0082.js.map": "/texnoexpert/static/js/main.308b0082.js.map",
+    "static/media/youtube.svg": "/texnoexpert/static/media/youtube.6806408aa1bf55b7f1aaba51978e649e.svg",
+    "main.df158081.css.map": "/texnoexpert/static/css/main.df158081.css.map",
+    "main.3285c4eb.js.map": "/texnoexpert/static/js/main.3285c4eb.js.map",
     "453.46adeb41.chunk.js.map": "/texnoexpert/static/js/453.46adeb41.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.075093dd.css",
-    "static/js/main.308b0082.js"
+    "static/css/main.df158081.css",
+    "static/js/main.3285c4eb.js"
   ]
 }
