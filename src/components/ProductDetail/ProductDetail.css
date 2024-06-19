@@ -1,0 +1,100 @@
+.product-detail {
+    font-family: Arial, sans-serif;
+    color: #333;
+    max-width: 768px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .product-navigation a {
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+  }
+  
+  .product-content {
+    display: flex;
+    margin-top: 20px;
+  }
+  
+  .product-image img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+  }
+  
+  .product-info {
+    flex-grow: 1;
+    padding-left: 20px;
+  }
+  
+  .product-info h1 {
+    color: #000;
+  }
+  
+  .product-info ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .product-info ul li {
+    padding-bottom: 10px;
+  }
+  
+  .color-selection {
+    margin-top: 20px;
+  }
+  
+  button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: darkred;
+  }
+  
+  .social-media {
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  .social-media .icons a {
+    margin: 0 10px;
+  }
+  
+  .social-media .icons img {
+    width: 24px;
+    height: 24px;
+  }
+
+  .footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+  }
+  
+  .footer-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding: 20px;
+  }
+  
+  .social-icons svg {
+    fill: white;
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+  }
