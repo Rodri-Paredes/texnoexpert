@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/texnoexpert/static/css/main.df158081.css",
-    "main.js": "/texnoexpert/static/js/main.3285c4eb.js",
+    "main.css": "/texnoexpert/static/css/main.92cd8a99.css",
+    "main.js": "/texnoexpert/static/js/main.378cafae.js",
     "static/js/453.46adeb41.chunk.js": "/texnoexpert/static/js/453.46adeb41.chunk.js",
     "static/media/portada 1.png": "/texnoexpert/static/media/portada 1.6aa1ea87808f3cca3bce.png",
     "static/media/mochilahiperx 1.png": "/texnoexpert/static/media/mochilahiperx 1.7d6a5c38b9ad44a8b6e7.png",
@@ -14,12 +14,12 @@
     "static/media/facebook.svg": "/texnoexpert/static/media/facebook.1d60f030f88d365627c35afd0f0f9d38.svg",
     "index.html": "/texnoexpert/index.html",
     "static/media/youtube.svg": "/texnoexpert/static/media/youtube.6806408aa1bf55b7f1aaba51978e649e.svg",
-    "main.df158081.css.map": "/texnoexpert/static/css/main.df158081.css.map",
-    "main.3285c4eb.js.map": "/texnoexpert/static/js/main.3285c4eb.js.map",
+    "main.92cd8a99.css.map": "/texnoexpert/static/css/main.92cd8a99.css.map",
+    "main.378cafae.js.map": "/texnoexpert/static/js/main.378cafae.js.map",
     "453.46adeb41.chunk.js.map": "/texnoexpert/static/js/453.46adeb41.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df158081.css",
-    "static/js/main.3285c4eb.js"
+    "static/css/main.92cd8a99.css",
+    "static/js/main.378cafae.js"
   ]
 }
